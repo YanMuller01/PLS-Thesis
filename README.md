@@ -20,6 +20,7 @@ Clone the repository and install the required Python packages:
 git clone https://github.com/your-username/your-project.git
 cd your-project
 pip install -r requirements.txt
+```
 
 ## Usage
 
@@ -41,7 +42,8 @@ There you can configure important parameters such as:
 Example:
 
 ```bash
-jupyter notebook run_experiments.ipynb
+jupyter notebook ba.ipynb
+```
 
 ## License
 Licensed under the MIT License – see LICENSE file for details.
